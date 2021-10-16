@@ -12,6 +12,8 @@ public class Solution {
         
         while( N !=0 ){
         
+        	System.out.println(Integer.toBinaryString(N));
+        	
             if(counting == false){    // for the first "1"   
                 if( (N&1) == 1){      // note: cannot use n&1 withoug "()"
                     counting = true;  // start to count
@@ -35,7 +37,7 @@ public class Solution {
     }
     
     public static void main(String[] args) {
-		int result = new Solution().solution(529);
+		int result = new Solution().solution(997);
 		System.out.println("Result is = " + result);
 	}
 }
