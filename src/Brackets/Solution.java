@@ -17,6 +17,8 @@ class Solution {
         
         // scan the string (just one pass)
         for(int i=0; i< S.length(); i++){    
+        	System.out.println(stack.toString());
+
             // note: push "its pair"
             if( S.charAt(i) == '(' ){
                 stack.push(')');
