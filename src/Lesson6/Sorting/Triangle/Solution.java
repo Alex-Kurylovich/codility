@@ -1,4 +1,4 @@
-package Triangle;
+package Lesson6.Sorting.Triangle;
 
 // note: need to import (so, we can use "Arrays.sort(int[])")
 import java.util.Arrays;

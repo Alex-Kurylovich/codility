@@ -1,4 +1,4 @@
-package NumberOfDiscIntersections;
+package Lesson6.Sorting.NumberOfDiscIntersections;
 
 /*
 We draw N discs on a plane. The discs are numbered from 0 to N − 1.

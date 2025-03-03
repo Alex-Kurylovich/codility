@@ -1,4 +1,4 @@
-package Distinct;
+package Lesson6.Sorting.Distinct;
 
 // note: remember to import (for using "Arrays.sort(xxx[])")
 import java.util.Arrays;

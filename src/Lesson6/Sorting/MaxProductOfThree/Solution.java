@@ -1,4 +1,4 @@
-package MaxProductOfThree;
+package Lesson6.Sorting.MaxProductOfThree;
 
 // note: need to import (for using "Arrays.sort(int[])")
 import java.util.Arrays;

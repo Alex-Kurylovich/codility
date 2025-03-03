@@ -1,4 +1,4 @@
-package NumberOfDiscIntersections;
+package Lesson6.Sorting.NumberOfDiscIntersections;
 
 // note: need to import (to use "Arrays.sort(int[])" )
 import java.util.*;
