@@ -1,4 +1,4 @@
-package FrogJmp;
+package Lesson3.TimeComplexity.FrogJmp;
 
 /*
 A small frog wants to get to the other side of the road.

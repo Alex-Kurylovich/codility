@@ -1,4 +1,4 @@
-package PermMissingElem;
+package Lesson3.TimeComplexity.PermMissingElem;
 
 public class Solution2 {
 

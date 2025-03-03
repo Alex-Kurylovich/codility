@@ -1,4 +1,4 @@
-package BinaryGap;
+package Lesson1.Iterations.BinaryGap;
 
 /*
 A binary gap within a positive integer N is any maximal sequence of consecutive zeros that is

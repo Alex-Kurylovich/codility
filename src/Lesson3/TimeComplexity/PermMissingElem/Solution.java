@@ -1,4 +1,4 @@
-package PermMissingElem;
+package Lesson3.TimeComplexity.PermMissingElem;
 
 /*
 An array A consisting of N different integers is given.

@@ -1,4 +1,4 @@
-package BinaryGap;
+package Lesson1.Iterations.BinaryGap;
 
 public class Solution2 {
 

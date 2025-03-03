@@ -1,4 +1,4 @@
-package OddOccurrencesInArray;
+package Lesson2.Arrays.OddOccurrencesInArray;
 
 /*
 A non-empty array A consisting of N integers is given.

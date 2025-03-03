@@ -1,4 +1,4 @@
-package TapeEquilibrium;
+package Lesson3.TimeComplexity.TapeEquilibrium;
 
 /*
 A non-empty array A consisting of N integers is given. Array A represents numbers on a tape.

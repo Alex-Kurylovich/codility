@@ -1,4 +1,4 @@
-package OddOccurrencesInArray;
+package Lesson2.Arrays.OddOccurrencesInArray;
 
 import java.util.HashMap;
 import java.util.Map;
