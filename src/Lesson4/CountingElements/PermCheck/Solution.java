@@ -1,4 +1,4 @@
-package PermCheck;
+package Lesson4.CountingElements.PermCheck;
 
 import java.util.HashSet;
 import java.util.Set;

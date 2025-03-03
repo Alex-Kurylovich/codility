@@ -1,4 +1,4 @@
-package PassingCars;
+package Lesson5.PrefixSums.PassingCars;
 
 /*
 A non-empty array A consisting of N integers is given.

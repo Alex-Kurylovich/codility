@@ -1,4 +1,4 @@
-package FrogRiverOne;
+package Lesson4.CountingElements.FrogRiverOne;
 
 import java.util.HashSet;
 import java.util.Set;

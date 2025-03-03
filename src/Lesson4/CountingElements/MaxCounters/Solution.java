@@ -1,4 +1,4 @@
-package MaxCounters;
+package Lesson4.CountingElements.MaxCounters;
 
 import java.util.Arrays;
 

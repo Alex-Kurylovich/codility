@@ -1,4 +1,4 @@
-package MissingInteger;
+package Lesson4.CountingElements.MissingInteger;
 
 import java.util.HashSet;
 import java.util.Set;

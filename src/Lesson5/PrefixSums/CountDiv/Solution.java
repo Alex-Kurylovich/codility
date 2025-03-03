@@ -1,4 +1,4 @@
-package CountDiv;
+package Lesson5.PrefixSums.CountDiv;
 
 /*
 Write a function:

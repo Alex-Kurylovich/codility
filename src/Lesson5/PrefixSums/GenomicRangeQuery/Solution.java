@@ -1,4 +1,4 @@
-package GenomicRangeQuery;
+package Lesson5.PrefixSums.GenomicRangeQuery;
 
 import java.util.Arrays;
 
