@@ -1,4 +1,4 @@
-package StoneWall;
+package Lesson7.StacksAndQueues.StoneWall;
 
 import java.util.Stack;
 

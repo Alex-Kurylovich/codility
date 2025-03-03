@@ -1,4 +1,4 @@
-package Nesting;
+package Lesson7.StacksAndQueues.Nesting;
 
 // you can also use imports, for example:
 import java.util.Stack;
