@@ -1,4 +1,4 @@
-package MaxNonoverlappingSegments;
+package Lesson16.GreedyAlgorithms.MaxNonoverlappingSegments;
 
 /*
 Located on a line are N segments, numbered from 0 to N − 1, whose positions are given in arrays A and B.

@@ -1,4 +1,4 @@
-package MinAbsSum;
+package Lesson17.DynamicProgramming.MinAbsSum;
 
 /*
 For a given array A of N integers and a sequence S of N integers from the set {−1, 1}, we define val(A, S) as follows:

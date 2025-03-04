@@ -1,4 +1,4 @@
-package NumberSolitaire;
+package Lesson17.DynamicProgramming.NumberSolitaire;
 
 /*
 A game for one player is played on a board consisting of N consecutive squares, numbered from 0 to N − 1.

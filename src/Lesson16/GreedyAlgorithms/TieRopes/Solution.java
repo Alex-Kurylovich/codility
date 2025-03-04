@@ -1,4 +1,4 @@
-package TieRopes;
+package Lesson16.GreedyAlgorithms.TieRopes;
 
 /*
 There are N ropes numbered from 0 to N − 1, whose lengths are given in an array A, lying on the floor in a line.
