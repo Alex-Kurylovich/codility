@@ -1,4 +1,4 @@
-package CountFactors;
+package Lesson10.PrimeAndCompositeNumbers.CountFactors;
 
 /*
 A positive integer D is a factor of a positive integer N if there exists an integer M such that N = D * M.

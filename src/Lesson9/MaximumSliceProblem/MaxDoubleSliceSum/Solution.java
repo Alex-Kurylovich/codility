@@ -1,4 +1,4 @@
-package MaxDoubleSliceSum;
+package Lesson9.MaximumSliceProblem.MaxDoubleSliceSum;
 
 /*
 A non-empty array A consisting of N integers is given.

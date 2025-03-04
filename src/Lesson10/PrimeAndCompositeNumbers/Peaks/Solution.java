@@ -1,4 +1,4 @@
-package Peaks;
+package Lesson10.PrimeAndCompositeNumbers.Peaks;
 
 // you can also use imports, for example:
 import java.util.ArrayList;

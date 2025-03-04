@@ -1,4 +1,4 @@
-package MaxSliceSum;
+package Lesson9.MaximumSliceProblem.MaxSliceSum;
 
 // much elegant solution
 // not using "Math.max( 0, maxEndingHere + A[i])"

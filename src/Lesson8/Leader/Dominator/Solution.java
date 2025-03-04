@@ -1,4 +1,4 @@
-package Dominator;
+package Lesson8.Leader.Dominator;
 
 // you can also use imports, for example:
 import java.util.HashMap;

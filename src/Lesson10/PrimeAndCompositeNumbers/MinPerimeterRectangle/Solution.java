@@ -1,4 +1,4 @@
-package MinPerimeterRectangle;
+package Lesson10.PrimeAndCompositeNumbers.MinPerimeterRectangle;
 
 /*
 An integer N is given, representing the area of some rectangle.

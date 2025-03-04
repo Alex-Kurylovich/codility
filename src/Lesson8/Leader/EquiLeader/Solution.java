@@ -1,4 +1,4 @@
-package EquiLeader;
+package Lesson8.Leader.EquiLeader;
 
 // you can also use imports, for example:
 import java.util.HashMap;

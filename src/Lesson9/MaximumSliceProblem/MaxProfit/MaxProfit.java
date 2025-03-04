@@ -1,4 +1,4 @@
-package MaxProfit;
+package Lesson9.MaximumSliceProblem.MaxProfit;
 
 /*
 An array A consisting of N integers is given. It contains daily prices of a stock share for a period of N consecutive days. If a single share was bought on day P and sold on day Q, where 0 ≤ P ≤ Q < N, then the profit of such transaction is equal to A[Q] − A[P], provided that A[Q] ≥ A[P]. Otherwise, the transaction brings loss of A[P] − A[Q].

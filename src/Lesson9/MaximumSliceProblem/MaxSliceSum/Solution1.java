@@ -1,6 +1,6 @@
 // This solution is a bit "ugly" (but 100%/100% correctness/performance)
 
-package MaxSliceSum;
+package Lesson9.MaximumSliceProblem.MaxSliceSum;
 
 /*
 A non-empty array A consisting of N integers is given. A pair of integers (P, Q),
