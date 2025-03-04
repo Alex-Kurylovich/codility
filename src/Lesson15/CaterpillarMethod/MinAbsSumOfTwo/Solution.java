@@ -1,4 +1,4 @@
-package MinAbsSumOfTwo;
+package Lesson15.CaterpillarMethod.MinAbsSumOfTwo;
 
 /*
 Let A be a non-empty array consisting of N integers.

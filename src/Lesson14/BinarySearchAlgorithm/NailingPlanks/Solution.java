@@ -1,4 +1,4 @@
-package NailingPlanks;
+package Lesson14.BinarySearchAlgorithm.NailingPlanks;
 
 /*
 You are given two non-empty arrays A and B consisting of N integers. These arrays represent N planks.

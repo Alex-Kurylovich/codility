@@ -1,4 +1,4 @@
-package FibFrog;
+package Lesson13.FibonacciNumbers.FibFrog;
 
 // for using "point" (java.awt.*)
 import java.awt.Point;

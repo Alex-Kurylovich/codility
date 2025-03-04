@@ -1,4 +1,4 @@
-package CommonPrimeDivisors;
+package Lesson12.EuclideanAlgorithm.CommonPrimeDivisors;
 
 /*
 A prime is a positive integer X that has exactly two distinct divisors: 1 and X.

@@ -1,6 +1,6 @@
 // This solution is simple and correct, but with low performance (100% correct, 40% performance)
 
-package CountDistinctSlices;
+package Lesson15.CaterpillarMethod.CountDistinctSlices;
 
 import java.util.HashSet;
 import java.util.Set;

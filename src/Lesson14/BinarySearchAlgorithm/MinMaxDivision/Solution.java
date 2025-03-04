@@ -1,4 +1,4 @@
-package MinMaxDivision;
+package Lesson14.BinarySearchAlgorithm.MinMaxDivision;
 
 /*
 You are given integers K, M and a non-empty array A consisting of N integers.

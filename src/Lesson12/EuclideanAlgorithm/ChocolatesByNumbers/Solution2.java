@@ -1,4 +1,4 @@
-package ChocolatesByNumbers;
+package Lesson12.EuclideanAlgorithm.ChocolatesByNumbers;
 
 class Solution2 {
     public int solution(int N, int M) {

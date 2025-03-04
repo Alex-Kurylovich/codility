@@ -1,4 +1,4 @@
-package Ladder;
+package Lesson13.FibonacciNumbers.Ladder;
 
 import java.util.Arrays;
 

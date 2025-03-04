@@ -1,7 +1,7 @@
 // This solution is simple and correct
 // but a bit low performance (100% correct and 25% performance)
 
-package ChocolatesByNumbers;
+package Lesson12.EuclideanAlgorithm.ChocolatesByNumbers;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package CountNonDivisible;
+package Lesson11.SieveOfEratosthenes.CountNonDivisible;
 
 import java.util.Arrays;
 import java.util.HashMap;

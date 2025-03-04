@@ -1,4 +1,4 @@
-package CountTriangles;
+package Lesson15.CaterpillarMethod.CountTriangles;
 
 import java.util.Arrays;
 

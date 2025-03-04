@@ -1,4 +1,4 @@
-package CountSemiprimes;
+package Lesson11.SieveOfEratosthenes.CountSemiprimes;
 
 import java.util.ArrayList;
 import java.util.Arrays;

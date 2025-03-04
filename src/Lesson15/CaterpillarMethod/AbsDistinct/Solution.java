@@ -1,4 +1,4 @@
-package AbsDistinct;
+package Lesson15.CaterpillarMethod.AbsDistinct;
 
 import java.util.HashSet;
 import java.util.Set;

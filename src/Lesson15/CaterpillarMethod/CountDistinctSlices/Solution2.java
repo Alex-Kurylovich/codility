@@ -1,4 +1,4 @@
-package CountDistinctSlices;
+package Lesson15.CaterpillarMethod.CountDistinctSlices;
 
 class Solution2 {
     public int solution(int M, int[] A) {
